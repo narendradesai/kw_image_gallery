@@ -1,0 +1,5 @@
+name: 'Kodework - Image Gallery'
+type: module
+description: 'Kodework Assignment.'
+core: 8.x
+packkage: 'Kodework'
